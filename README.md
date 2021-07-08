@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zhaosanyin
-- 👀 I’m interested in learning the coding  
+- 👀 firing the coding  
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on the full stack developing 
 - 📫 How to reach me zhaosan.yin@gmail.com
