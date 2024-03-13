@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhaosanyin
 - 👀 firing the coding  
-- 🌱 I’m currently learning web developing
+- 🌱 I’m currently setup the Linux server in Hongkong
 - 💞️ I’m looking to collaborate on the full stack developing 
 - 📫 How to reach me zhaosan.yin@gmail.com
 
